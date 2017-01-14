@@ -1,4 +1,4 @@
-# Casper - Akshay's Blog
+# Casper - Akshay's Blog [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://akshaychaudhary.io) [![npm license](https://img.shields.io/npm/l/awesome-badges.svg)](https://opensource.org/licenses/MIT)
 
 A fork of the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
