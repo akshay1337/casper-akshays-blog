@@ -1,6 +1,6 @@
-# Casper - Akshay's Blog [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://akshaychaudhary.io) [![npm license](https://img.shields.io/npm/l/awesome-badges.svg)](https://opensource.org/licenses/MIT)
+# Casper - Akshay's Blog [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://akshay.ch) [![npm license](https://img.shields.io/npm/l/awesome-badges.svg)](https://opensource.org/licenses/MIT)
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/). Casper 1.4 is the last release of Casper's original design, created to be compatible **ONLY with Ghost 1.0** and above. If you are running an earlier version of Ghost, you will need [Casper 1.3.7](https://github.com/TryGhost/Casper/releases/tag/1.3.7). For all other versions of Ghost, we recommend switching to the [latest release](https://github.com/TryGhost/Casper/releases) of Casper, with an updated design.
+The default theme for [Ghost](http://github.com/tryghost/ghost/), updated with Casper 2.6.2.
 
 To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
@@ -9,7 +9,6 @@ To download, visit the [releases](https://github.com/TryGhost/Casper/releases) p
 - Disqus comments
 - Google Analytics
 - Prism.js for syntax highlighting: http://prismjs.com/
-- GitHub-jQuery-Repo-Widget, for nice presentation of github repo in a blog post: https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget
 
 
 ## Copyright & License
